@@ -33,7 +33,7 @@ git clone https://github.com/jeferson02024/BLUE-bot-.git
 ```
 5️⃣ Entrar na pasta do bot
 ```bash
-cd BLUE-bot-
+cd BLUE-bot
 ```
 7️⃣ Iniciar o bot
 ```bash
